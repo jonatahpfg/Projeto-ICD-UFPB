@@ -6,6 +6,7 @@ Perguntas)
 1-Quantidade de discos entre os 500 melhores por ano.
 
 1.1)Percebe-se um crescimento anormal a partir de 1965, o que será que pode explicar isso? 
+
 2) Existe uma proporcionalidade entre a quantidade de discos de cada artista entre os 500 melhores e a popularidade de algumas de suas músicas
 
 
