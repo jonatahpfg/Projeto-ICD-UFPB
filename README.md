@@ -9,6 +9,8 @@ Perguntas)
 
 2) Existe uma proporcionalidade entre a quantidade de discos de cada artista entre os 500 melhores e a popularidade de algumas de suas músicas
 
+3)A proporcionalidade entre a quantidade de discos de cada artista entre os 500 melhores e a popularidade de algumas de suas músicas
+
 
 Haverão mais perguntas com o passar do tempo
 
