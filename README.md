@@ -28,5 +28,7 @@ Já foram feitas algumas análises, haverão mais perguntas com o passar do temp
 
 Conjunto de dados sobre músicas de rock entre 1950 e 2020 https://www.kaggle.com/datasets/lukaszamora/history-of-rock-19502020
 
+Conjunto de dados sobre músicas de 1950 a 2019 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
+
 
 Conjunto de dados sobre os 500 melhores álbums de todos os tempos(Segundo a Rolling Stone) https://www.kaggle.com/datasets/notgibs/500-greatest-albums-of-all-time-rolling-stone
