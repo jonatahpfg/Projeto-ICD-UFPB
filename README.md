@@ -8,10 +8,10 @@ Perguntas)
 1.2) Quantos álbuns cada artista possui no ranking.
 
 2-Relação quantidade de discos de cada artista entre os 500 melhores e a popularidade de algumas de suas músicas.
-2.1) Comparação de décadas para analisar o movimento de popularidade entre os anos e também dos artistas com albuns ranqueados entre os 500 e os que não possuem
+2.1) Comparação de décadas para analisar o movimento de popularidade entre os anos e também dos artistas com albuns ranqueados entre os 500 e os que não estão.
 
 
-Já foram feitas algumas análises, averão mais perguntas com o passar do tempo
+Já foram feitas algumas análises, haverão mais perguntas com o passar do tempo
 
 
 
