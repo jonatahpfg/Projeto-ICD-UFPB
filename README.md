@@ -13,8 +13,7 @@ Perguntas)
 2-Relação quantidade de discos de cada artista entre os 500 melhores e a popularidade de algumas de suas músicas.
 
 2.1) Comparação de décadas para analisar o movimento de popularidade entre os anos e também dos artistas com albuns ranqueados entre os 500 e os que não estão.
-
-3) Quais características são predominantes em artistas de sucesso? 
+3- Quais características são predominantes em artistas de sucesso? 
 
 
 Já foram feitas algumas análises, haverão mais perguntas com o passar do tempo
