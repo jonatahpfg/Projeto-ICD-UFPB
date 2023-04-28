@@ -18,7 +18,7 @@ Perguntas)
 
 3)Como os estilos sofreram (crescimento/descrescimento) na popularidade ao passar dos anos, para assim entender os movimentos do mainstream.
 
-4)- Quais características são predominantes em artistas de sucesso? 
+4)- Quais as principais temáticas dos estilos musicais?
 
 
 Já foram feitas algumas análises, haverão mais perguntas com o passar do tempo.
