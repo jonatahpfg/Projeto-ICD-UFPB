@@ -36,3 +36,5 @@ Conjunto de dados sobre músicas de 1950 a 2019 https://www.kaggle.com/datasets/
 
 
 Conjunto de dados sobre os 500 melhores álbums de todos os tempos(Segundo a Rolling Stone) https://www.kaggle.com/datasets/notgibs/500-greatest-albums-of-all-time-rolling-stone
+
+Todos os dados estão na pasta "arquivo_csv".
