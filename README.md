@@ -20,7 +20,7 @@ Perguntas)
 
 4)- Quais as principais temáticas dos estilos musicais?
 
-5) Algumas características musicais estão relacionadas?
+5 - Algumas características musicais estão relacionadas?
 
 
 
