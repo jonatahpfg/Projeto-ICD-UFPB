@@ -36,7 +36,7 @@ Conjunto de dados sobre músicas de rock entre 1950 e 2020 https://www.kaggle.co
 Conjunto de dados sobre músicas de 1950 a 2019 https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019
 
 
-Conjunto de dados sobre os 500 melhores álbums de todos os tempos(Segundo a Rolling Stone) https://www.kaggle.com/datasets/notgibs/500-greatest-albums-of-all-time-rolling-stone
+Conjunto de dados sobre os 500 melhores álbuns de todos os tempos(Segundo a Rolling Stone) https://www.kaggle.com/datasets/notgibs/500-greatest-albums-of-all-time-rolling-stone
 
-https://www.canva.com/design/DAFkTSB-zwY/fcsNRu4TW_PueGKo2vrWmQ/edit?analyticsCorrelationId=ad11cda0-231a-42f1-a38b-5ea24be2db29
+
 Todos os dados estão na pasta "arquivo_csv".
