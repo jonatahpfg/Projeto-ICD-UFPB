@@ -1,6 +1,6 @@
 # Projeto-ICD
 Integrantes:
-Jonata Henrique Paiva Feitosa Guedes, Josué Oliveira Abrantes, Daniel Henrique Batista Gomes, Kenyo Mailton da Silva Oliveira  
+Jonata Henrique Paiva Feitosa Guedes, Josué Oliveira Abrantes, Kênyo Mailton da Silva Oliveira  
 
 Perguntas)
 
